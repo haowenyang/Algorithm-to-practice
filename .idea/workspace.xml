@@ -1,17 +1,1054 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d457bcb7-8d41-4240-b29e-81ee12f33dde" name="Default Changelist" comment="算法练习">
+      <change afterPath="$PROJECT_DIR$/lianxi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L10_IsMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L125_IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L131_Partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L152_MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L172_TrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L17_LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L189_Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L190_ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L200_NumIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L202_IsHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L204_CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L208_Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L21_1_Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L22_GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L242_IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L287_FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L289_GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L28_StrStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L29_1_SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L326_IsPowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L328_OddEvenList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L350_Intersect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L354_MaxEnvelopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L371_GetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L48_Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L51_SolveNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L52_TotalNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L560_SubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L56_merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L58_1_ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L62_UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L63_UniquePathsWithObstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L66_PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L674_FindLengthOfLCIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L77_Combine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L79_Exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/L922_SortArrayByParityII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyC/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_uzzle/AxeBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_uzzle/BowBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_uzzle/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_uzzle/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_uzzle/KnifeBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_uzzle/WeaponBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_uzzle/shixian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observation_pattern/Current.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observation_pattern/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observation_pattern/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observation_pattern/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observation_pattern/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observation_pattern/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/FLYBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/FlyPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/Flynowith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/Flywith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/Mallar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/Minipower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/ModeDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/mini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/muteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/squeakQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_pattern/strategy_pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTree/Level_traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree/Level_traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CyC/L34_SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CyC/L34_SearchRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/Quick_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/Quick_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack1/Array_implementation_stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/Array_implementation_stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack1/Linkedlist_implementation_stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/Linkedlist_implementation_stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack1/Parentheses_matching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/Parentheses_matching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack1/Remove_outermost_parenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/Remove_outermost_parenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack1/baseball_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/baseball_game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack1/miniStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/miniStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTree/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stack/Array_implementation_stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-400">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CyC/test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CyC/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arraylist/FirstRepeat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTree/BuildBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CyC/L10_IsMatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/Circular_linkedlist_segmentation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTree/BuildBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CyC/L208_Trie.java" />
+        <option value="$PROJECT_DIR$/src/String/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTree/Level_traversal.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L242_IsAnagram.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L202_IsHappy.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L371_GetSum.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L190_ReverseBits.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L326_IsPowerOfThree.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L350_Intersect.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L66_PlusOne.java" />
+        <option value="$PROJECT_DIR$/src/Sort/Quick_sort.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L200_NumIslands.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L125_IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L189_Rotate.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L172_TrailingZeroes.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L28_StrStr.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L204_CountPrimes.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L17_LetterCombinations.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L77_Combine.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L79_Exist.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L51_SolveNQueens.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L52_TotalNQueens.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L22_GenerateParenthesis.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L131_Partition.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L289_GameOfLife.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L48_Rotate.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L287_FindDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L328_OddEvenList.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L56_merge.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L58_1_ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L21_1_Exchange.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L922_SortArrayByParityII.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L29_1_SpiralOrder.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L152_MaxProduct.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L10_IsMatch.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L543_DiameterOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L560_SubarraySum.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L62_UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L63_UniquePathsWithObstacles.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L674_FindLengthOfLCIS.java" />
+        <option value="$PROJECT_DIR$/src/CyC/L354_MaxEnvelopes.java" />
+        <option value="$PROJECT_DIR$/src/CyC/test.java" />
+        <option value="$PROJECT_DIR$/src/Main/Main3.java" />
+        <option value="$PROJECT_DIR$/src/Main/Main4.java" />
+        <option value="$PROJECT_DIR$/src/Main/Main2.java" />
+        <option value="$PROJECT_DIR$/src/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/CyC/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTree/test.java" />
+        <option value="$PROJECT_DIR$/src/test/test.java" />
+        <option value="$PROJECT_DIR$/src/CyC/test2.java" />
+        <option value="$PROJECT_DIR$/src/CyC/test1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Desktop/cdbtp/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\Users\younger\Desktop\cdbtp\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-49" />
-    <option name="y" value="161" />
-    <option name="width" value="1296" />
-    <option name="height" value="639" />
+    <option name="x" value="518" />
+    <option name="y" value="503" />
+    <option name="width" value="1581" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm-to-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-to-practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm-to-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-to-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm-to-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-to-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CyC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm-to-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-to-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm-to-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-to-practice" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="Algorithm-to-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main2" />
+      <module name="Algorithm-to-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main3" />
+      <module name="Algorithm-to-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
+      <module name="Algorithm-to-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CyC.test" />
+      <module name="Algorithm-to-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CyC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d457bcb7-8d41-4240-b29e-81ee12f33dde" name="Default Changelist" comment="" />
+      <created>1572405232092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572405232092</updated>
+      <workItem from="1572405233327" duration="2307000" />
+      <workItem from="1572490433974" duration="2833000" />
+      <workItem from="1572588356627" duration="5215000" />
+      <workItem from="1572828667448" duration="3157000" />
+      <workItem from="1572917959343" duration="5613000" />
+      <workItem from="1573001970355" duration="5076000" />
+      <workItem from="1573034965338" duration="595000" />
+      <workItem from="1573087873585" duration="19751000" />
+      <workItem from="1573173964029" duration="6332000" />
+      <workItem from="1573191406503" duration="795000" />
+      <workItem from="1573193051546" duration="1688000" />
+      <workItem from="1573437944957" duration="6444000" />
+      <workItem from="1573460544240" duration="3980000" />
+      <workItem from="1573521190601" duration="8139000" />
+      <workItem from="1573605972302" duration="17176000" />
+      <workItem from="1573697931311" duration="11934000" />
+      <workItem from="1573781407586" duration="16533000" />
+      <workItem from="1574038596285" duration="4706000" />
+      <workItem from="1574126879402" duration="7087000" />
+      <workItem from="1574210881653" duration="17937000" />
+      <workItem from="1574297717748" duration="5420000" />
+      <workItem from="1574384195965" duration="5770000" />
+      <workItem from="1574670025999" duration="882000" />
+      <workItem from="1574732331762" duration="4379000" />
+      <workItem from="1575247593793" duration="9794000" />
+      <workItem from="1575337051132" duration="5582000" />
+      <workItem from="1575421979758" duration="1621000" />
+      <workItem from="1575507190955" duration="8835000" />
+      <workItem from="1575533482349" duration="12409000" />
+      <workItem from="1575593396313" duration="19785000" />
+      <workItem from="1575852693124" duration="13483000" />
+      <workItem from="1575891140920" duration="9716000" />
+      <workItem from="1575941399995" duration="7531000" />
+      <workItem from="1576030586174" duration="2949000" />
+      <workItem from="1576199720714" duration="8145000" />
+      <workItem from="1576461230478" duration="6325000" />
+      <workItem from="1576544671154" duration="1686000" />
+      <workItem from="1576648123808" duration="606000" />
+      <workItem from="1577409910703" duration="14248000" />
+      <workItem from="1577692203187" duration="943000" />
+      <workItem from="1577693166930" duration="167000" />
+      <workItem from="1578277191108" duration="23000" />
+      <workItem from="1578277953443" duration="2566000" />
+      <workItem from="1578481530798" duration="11155000" />
+      <workItem from="1578537337599" duration="432000" />
+      <workItem from="1578626936389" duration="361000" />
+      <workItem from="1578627678452" duration="12894000" />
+      <workItem from="1578897832010" duration="11000" />
+      <workItem from="1578964536328" duration="20149000" />
+      <workItem from="1579071603812" duration="2838000" />
+      <workItem from="1579146934294" duration="2347000" />
+      <workItem from="1579241116129" duration="4422000" />
+      <workItem from="1579358723130" duration="1204000" />
+      <workItem from="1579408602835" duration="6544000" />
+      <workItem from="1580195772205" duration="6679000" />
+      <workItem from="1580286542944" duration="3578000" />
+      <workItem from="1580629236580" duration="8611000" />
+      <workItem from="1580801406075" duration="1666000" />
+      <workItem from="1580886074918" duration="6177000" />
+      <workItem from="1581062002864" duration="213000" />
+      <workItem from="1581218055201" duration="4552000" />
+      <workItem from="1581236295722" duration="6758000" />
+      <workItem from="1581322495451" duration="4453000" />
+      <workItem from="1581479488156" duration="11751000" />
+      <workItem from="1581566724764" duration="1209000" />
+      <workItem from="1581928288465" duration="1596000" />
+      <workItem from="1582001047519" duration="716000" />
+      <workItem from="1582094218041" duration="16088000" />
+      <workItem from="1582171300146" duration="18198000" />
+      <workItem from="1582361368130" duration="6594000" />
+      <workItem from="1582797779308" duration="524000" />
+      <workItem from="1582801106996" duration="6746000" />
+      <workItem from="1582861300319" duration="7698000" />
+      <workItem from="1582959356652" duration="9748000" />
+      <workItem from="1583555069324" duration="6157000" />
+      <workItem from="1583733397416" duration="5648000" />
+      <workItem from="1583756436811" duration="3896000" />
+      <workItem from="1583810470973" duration="4572000" />
+      <workItem from="1583819728823" duration="11496000" />
+      <workItem from="1583927797945" duration="2736000" />
+      <workItem from="1583981329308" duration="1384000" />
+      <workItem from="1583998859904" duration="10452000" />
+      <workItem from="1584084460883" duration="17000" />
+      <workItem from="1584241045666" duration="6107000" />
+      <workItem from="1584366801574" duration="2732000" />
+      <workItem from="1584425853945" duration="9086000" />
+      <workItem from="1584500820361" duration="7723000" />
+      <workItem from="1584522245433" duration="1753000" />
+      <workItem from="1584535777152" duration="5458000" />
+      <workItem from="1584584178419" duration="20852000" />
+      <workItem from="1584623531088" duration="561000" />
+      <workItem from="1584672298187" duration="12683000" />
+      <workItem from="1584758255649" duration="2653000" />
+      <workItem from="1584773592087" duration="9254000" />
+      <workItem from="1584863588929" duration="10671000" />
+      <workItem from="1584930091247" duration="5126000" />
+      <workItem from="1584960715241" duration="7834000" />
+      <workItem from="1585030682913" duration="642000" />
+      <workItem from="1585043428617" duration="3861000" />
+      <workItem from="1585054744063" duration="594000" />
+      <workItem from="1585192064253" duration="8567000" />
+      <workItem from="1585208578227" duration="9093000" />
+      <workItem from="1585310662554" duration="3674000" />
+      <workItem from="1585367064044" duration="8831000" />
+      <workItem from="1585449773476" duration="5758000" />
+      <workItem from="1585478204763" duration="6313000" />
+      <workItem from="1585631480560" duration="8468000" />
+      <workItem from="1585740081112" duration="6450000" />
+      <workItem from="1586256225428" duration="6221000" />
+      <workItem from="1586344322032" duration="5706000" />
+      <workItem from="1586350203924" duration="567000" />
+      <workItem from="1586489912195" duration="915000" />
+      <workItem from="1586586556394" duration="842000" />
+      <workItem from="1586855278353" duration="1047000" />
+      <workItem from="1586856349752" duration="169000" />
+      <workItem from="1586858142533" duration="132000" />
+      <workItem from="1586919995951" duration="3748000" />
+      <workItem from="1587275312601" duration="84000" />
+      <workItem from="1587524625003" duration="1222000" />
+      <workItem from="1587645440280" duration="1412000" />
+    </task>
+    <task id="LOCAL-00001" summary="算法练习">
+      <created>1572405391321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572405391321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="709242000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5954158" weight="0.3449024" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.74946696" weight="0.41323212" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49638397" weight="0.3458904" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.40458423" side_tool="true" visible="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4917817" weight="0.32323232" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="算法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法练习" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyC/L371_GetSum.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyC/L189_Rotate.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyC/L28_StrStr.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyC/L204_CountPrimes.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyC/L77_Combine.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyC/L52_TotalNQueens.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyC/L48_Rotate.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/CyC/L172_TrailingZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L28_StrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L51_SolveNQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="47" column="36" selection-start-line="45" selection-start-column="16" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L52_TotalNQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L131_Partition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L204_CountPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L289_GameOfLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L48_Rotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L287_FindDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="21" column="16" selection-start-line="8" selection-start-column="6" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L328_OddEvenList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L58_1_ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L21_1_Exchange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L22_GenerateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L152_MaxProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="21" column="19" selection-start-line="7" selection-start-column="7" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L543_DiameterOfBinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/CyC/L922_SortArrayByParityII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L29_1_SpiralOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L17_LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L200_NumIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L208_Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L560_SubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L62_UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L354_MaxEnvelopes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L674_FindLengthOfLCIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L63_UniquePathsWithObstacles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/test.java" />
+    <entry file="jar://D:/java1.8/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1480">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29280">
+          <caret line="765" column="31" selection-start-line="765" selection-start-column="31" selection-end-line="765" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Main4.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L88_Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L34_SearchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L56_merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/Merge_sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L53_MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1480">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/Array_implementation_stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/BuildBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arraylist/FirstRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/BuildBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/L10_IsMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Circular_linkedlist_segmentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyC/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

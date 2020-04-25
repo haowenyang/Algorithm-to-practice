@@ -1,4 +1,4 @@
-package Stack1;
+package Stack;
 
 public class Remove_outermost_parenthesis {
 

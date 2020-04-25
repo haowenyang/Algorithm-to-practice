@@ -24,11 +24,11 @@ public class Level_traversal {
         traversal(root);
     }
     public static void traversal(BinaryTreeNode root){
-       BinaryTreeNode temp;
+
        Queue<BinaryTreeNode> queue=new LinkedList<>();
        queue.offer(root);
        while (root!=null){
-           temp=queue.poll();
+           BinaryTreeNode temp=queue.poll();
            System.out.println(temp.data);
            if (root.left!=null){
                queue.offer(temp.left);

@@ -1,4 +1,4 @@
-package Stack1;
+package Stack;
 
 public class Array_implementation_stack {
     private int top;

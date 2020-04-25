@@ -1,5 +1,6 @@
 package CyC;
 
+
 public class L34_SearchRange {
     public int[] searchRange(int[] nums, int target) {
         int[] result =new int[2];
@@ -38,6 +39,7 @@ public class L34_SearchRange {
         return result;
     }
     public static void main(String[] args) {
+
         int[] nums = {1};
         int target = 1;
         int[] result = new L34_SearchRange().searchRange(nums,target);

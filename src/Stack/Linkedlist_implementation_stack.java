@@ -1,4 +1,4 @@
-package Stack1;
+package Stack;
 
 public class Linkedlist_implementation_stack {
     public static class ListNode {
